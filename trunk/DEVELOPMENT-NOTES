@@ -3,4 +3,6 @@
 - accidental flood protection
 - intelligent command processing (path name recognition, /mode +o nick1 nick2
   ...)
+- Don't show the password sent to NickServ in a query window, in fact don't
+  show it at all
 
