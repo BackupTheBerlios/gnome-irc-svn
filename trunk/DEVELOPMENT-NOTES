@@ -1,0 +1,3 @@
+- Don't join any channels prior to identifying with nickserv, else freenode's
+  cloaking breaks (http://freenode.net/faq.shtml#nocloakxchat)
+
